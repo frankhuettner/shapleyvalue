@@ -1,6 +1,5 @@
 # shapleyvalue
-Calculates the Shapley value (using the potential function)
-This pyhton function calculates the Shapley value of a TU game
+This pyhton function calculates the Shapley value of a TU game.
 
 Examples are provided: calculate the Shapley Shubik index of the UN security council or the EU 27 (after Brexit)
 
